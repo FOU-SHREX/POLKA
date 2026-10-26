@@ -26,7 +26,9 @@ This is my fouth project and my first Slack bot. I made it to learn how Slack bo
 
 ## Hosting
 
-POLKA currently runs locally. I plan to deploy it on Hack Club Nest to keep it online 24/7.
+
+POLKA is hosted on Hack Club Nest and runs 24/7 using systemd. It keeps running even when my laptop is turned off.
+
 
 ## Future Plans
 
